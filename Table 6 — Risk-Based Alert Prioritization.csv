@@ -1,0 +1,4 @@
+Risk Level,Number of Incidents,True Positives,Precision (%),Action
+High,320,300,93.7,Immediate Response
+Medium,450,320,71.1,Manual Review
+Low,1200,100,8.3,Log Only

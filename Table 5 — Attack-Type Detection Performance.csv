@@ -1,0 +1,5 @@
+Attack Type,Precision (%),Recall (%),F1-score (%)
+Phishing,94.5,93.2,93.8
+Malware,92.1,91.7,91.9
+DDoS,90.3,89.5,89.9
+Insider Threat,88.7,87.9,88.3

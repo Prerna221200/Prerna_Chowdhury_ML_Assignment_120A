@@ -1,0 +1,8 @@
+Feature,Importance Score,Impact Type
+URL Length,0.21,High Risk
+Suspicious Keywords,0.18,High Risk
+IP Reputation,0.16,High Risk
+Number of Requests,0.14,Medium
+Login Attempts,0.12,Medium
+File Attachment,0.1,Medium
+Time of Access,0.09,Low

@@ -1,0 +1,4 @@
+Method,F1-score (%),Recall (%),ROC-AUC
+No Handling,82.4,79.1,0.88
+SMOTE,89.6,91.2,0.93
+Class Weighting,90.3,92.5,0.94
