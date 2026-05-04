@@ -46,5 +46,3 @@ To build regression models that can accurately predict response time and improve
 - [x] README file
 - [x] Dataset link and download instructions
 - [x] Generated figures
-- [x] Generated tables
-- [x] requirements.txt
